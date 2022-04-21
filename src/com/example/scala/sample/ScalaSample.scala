@@ -1,5 +1,4 @@
-package com.scala.sample
-
+package com.example.scala.sample
 
 object ScalaSample {
 
